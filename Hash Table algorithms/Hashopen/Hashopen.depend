@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641780732 source:d:\studia\programowanie\c\programowaniestrukturalne-isi-2-knopf\extra\hashopen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1641842126 source:d:\studia\programowanie\algorytmy\hashopen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+

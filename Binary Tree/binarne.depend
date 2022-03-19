@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643030629 source:d:\studia\programowanie\algorytmy\binarne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

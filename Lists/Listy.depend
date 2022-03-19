@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639995172 source:d:\studia\programowanie\algorytmy\listy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

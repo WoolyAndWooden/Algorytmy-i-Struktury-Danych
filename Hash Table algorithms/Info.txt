@@ -1,0 +1,1 @@
+In this directory are implementations of HashTables, with handlings of collisions. Hashopen project is the more completed of the two
